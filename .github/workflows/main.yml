@@ -3,10 +3,15 @@ on:
   schedule:
     - cron: "20 4 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    # Hier die Schreibrechte explizit anfordern:
+    permissions:
+      contents: write
+
     steps:
       # Snake Animation
       - uses: Platane/snk@master
@@ -14,6 +19,7 @@ jobs:
         with:
           github_user_name: akkiirah
           svg_out_path: dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
