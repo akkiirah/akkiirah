@@ -4,7 +4,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rena.gif" width="35%" align="right" />
+  <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/hanyuu.gif" width="25%" align="right" />
 </div>
 
 ```json
