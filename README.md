@@ -52,6 +52,7 @@
 <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rena-cube.gif" width="128px" />
 
 <br>
+
 ![](https://img.shields.io/badge/Steam-akkiirah-informational?style=flat&logo=Steam&logoColor=%23b4befe&color=%23b4befe&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fakkiirah)
 ![](https://img.shields.io/badge/Discord-akkiirah-informational?style=flat&logo=Discord&logoColor=%23b4befe&color=%23b4befe&link=https%3A%2F%2Fdiscord.com%2F)
 
