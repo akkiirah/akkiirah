@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=100&color=7287FD&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello+there;I'm+akkiirah+-+tech+weeb)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=250&color=7287FD&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=210&lines=I'm+akkiirah.;Inspired+by+Hinamizawa+and+blessed+by+Oyashiro-sama%2C+;I+craft+innovative+solutions+from+Windows+tweaks;to+immersive+web+and+gaming+experiences.)](https://git.io/typing-svg)
 
 ### About me
 
