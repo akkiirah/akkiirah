@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=250&color=7287FD&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=210&lines=I'm+akkiirah.;Inspired+by+Hinamizawa+and+blessed+by+Oyashiro-sama%2C+;I+craft+innovative+solutions+from+Windows+tweaks;to+immersive+web+and+gaming+experiences.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=1000&pause=2500&color=7287FD&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=I%27m+akkiirah.;Inspired+by+Hinamizawa+and+blessed+by+Oyashiro-sama%2C+;I+craft+innovative+solutions+from+Windows+tweaks;to+immersive+web+and+gaming+experiences." 
+     alt="Typing Animation" align="absmiddle"><!--
+--><img src="https://github.com/akkiirah/akkiirah/blob/main/assets/hanyuu.gif" 
+     width="20%" alt="Hanyuu GIF" align="bottom">
 
-### About me
+
+### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> About me
 
 <div align="center">
-  <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/hanyuu.gif" width="25%" align="right" />
+  <img src="https://raw.githubusercontent.com/akkiirah/akkiirah/refs/heads/main/assets/rika-dance.gif" width="21.25%" align="right" />
 
 </div>
 
@@ -32,7 +36,7 @@
 
 ---
 
-### Featured Projects
+### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Featured Projects
 
 | **TitlelessWindows** | **PatrigiosMarketAnalytics** |
 | -------------------- | ---------------------------- |
@@ -40,7 +44,7 @@
 
 ---
 
-### Future Plans
+### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Future Plans
 
 - **Discord Bot Integration:**  
   Develop a bot that leverages the official, yet hidden, Black Desert App API to forward all guild chat messages. Additionally, it should allow sending messages via Discord so that the chatbot posts in-game guild chat messages in the format ``[Discord-name]: {message}``. Please note that it is still under review whether this usage violates the Terms of Service.
@@ -50,18 +54,17 @@
 
 ---
 
-### Connect with Me
+### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Connect with Me
 
 <div align="center">
   
   <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rena-cube.gif" width="128px" />
-  
+
   <br><br>
   Feel free to explore my repositories and drop me a message if you have any questions or collaboration ideas!
   
   [![Steam akkiirah](https://img.shields.io/badge/Steam-akkiirah-informational?style=flat&logo=Steam&logoColor=%23b4befe&color=%23b4befe&link=https://steamcommunity.com/id/akkiirah)](https://steamcommunity.com/id/akkiirah)
   [![Discord akkiirah](https://img.shields.io/badge/Discord-akkiirah-informational?style=flat&logo=Discord&logoColor=%23b4befe&color=%23b4befe&link=https://discord.com/)](https://discord.com/)
-
 
 </div>
 
