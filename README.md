@@ -46,7 +46,7 @@
 ### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Technologies I'm Exploring
 
 - **Rust:**  
-  Currently exploring Rust—a language that combines memory safety with high speed. Its strict compiler enforces clean coding practices, and Cargo is simply awesome. Excited to dive deeper into what Rust has to offer.
+  I'm currently exploring Rust and it's been fascinating. Its emphasis on memory safety without sacrificing speed caught my attention. While the strict compiler can feel a bit daunting at first, it's teaching me a lot about clean coding practices. The syntax feels fresh, and cargo is just plain awesome. I'm enjoying the learning curve and excited to dive deeper into Rust’s unique features.
 
 ---
 
