@@ -43,8 +43,6 @@
 
 ---
 
----
-
 ### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Technologies I'm Exploring
 
 - **Rust:**  
