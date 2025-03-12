@@ -23,7 +23,7 @@
   
   "fields_of_interest": [
     "Niche Scripting Projects",
-       "Game Development",
+    "Game Development",
     "Web Development",
     "Gaming",
     "Anime",
