@@ -23,11 +23,8 @@
   
   "fields_of_interest": [
     "Niche Scripting Projects",
-    "Game Development",
-    "Web Development",
-    "Gaming",
-    "Anime",
-    "Cars"
+    "Game & Web Development",
+    "Gaming, Anime, Cars"
   ]
 }
 ```
