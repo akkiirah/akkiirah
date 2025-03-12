@@ -15,16 +15,16 @@
   "name": "akkiirah",
   "current_job": "Full Stack Developer",
   "education": [
-    "Self-Taught Developer",
     "State-Certified Game and Multimedia Developer",
-    "Trained Application Developer"
+    "Trained Application Developer",
+    "Self-Taught Developer"
   ],
   "company": "Hirsch & Wölfl",
   
   "fields_of_interest": [
-    "Web Development",
-    "Game Development",
     "Niche Scripting Projects",
+       "Game Development",
+    "Web Development",
     "Gaming",
     "Anime",
     "Cars"
