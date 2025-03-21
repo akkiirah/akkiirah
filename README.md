@@ -56,7 +56,7 @@
   Develop a bot that leverages the official (yet hidden) Black Desert App API to forward all guild chat messages. Additionally, it should allow sending messages via Discord so that the bot posts in-game messages in the format ``[Discord-name]: {message}``. (Note: Usage is under review to ensure it doesn't violate the Terms of Service.)
 
 - **Gaming Project:**  
-  As a huge fan of the *Higurashi: When They Cry* series, planning to create a game set in that universe. Currently deciding whether MonoGame (for a learning and challenging experience) or Unity (for a more robust development approach) is better. Limited experience in graphic design and asset creation, so collaboration is welcome!
+  As a huge fan of the *Higurashi: When They Cry* series, I'm planning to create a game set in that universe. Currently deciding whether to use MonoGame (for a learning / challenging experience) or Unity (for a more robust development approach). Limited experience in graphic design and asset creation, so collaborations are welcome!
 
 ---
 
