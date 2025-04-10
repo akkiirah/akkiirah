@@ -43,23 +43,6 @@
 
 ---
 
-### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Technologies I'm Exploring
-
-- **Rust:**  
-  I'm currently exploring Rust and it's been fascinating. Its emphasis on memory safety without sacrificing speed caught my attention. While the strict compiler can feel a bit daunting at first, it's teaching me a lot about clean coding practices. The syntax feels fresh, and cargo is just plain awesome. I'm enjoying the learning curve and excited to dive deeper into Rust’s unique features.
-
----
-
-### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Future Plans
-
-- **Discord Bot Integration:**  
-  Develop a bot that leverages the official (yet hidden) Black Desert App API to forward all guild chat messages. Additionally, it should allow sending messages via Discord so that the bot posts in-game messages in the format ``[Discord-name]: {message}``. (Note: Usage is under review to ensure it doesn't violate the Terms of Service.)
-
-- **Gaming Project:**  
-  As a huge fan of the *Higurashi: When They Cry* series, I'm planning to create a game set in that universe. Currently deciding whether to use MonoGame (for a learning / challenging experience) or Unity (for a more robust development approach). Limited experience in graphic design and asset creation, so collaborations are welcome!
-
----
-
 ### <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rika-cube.gif" width="42px" align="absmiddle" /> Connect with Me
 
 <div align="center">
