@@ -50,6 +50,10 @@
   
   <br><br>
   Feel free to explore my repositories and get in touch for questions or collaborations!
+
+  Some character images used in this README belong to their respective creators. 
+
+  If you're the rights holder and want anything removed, feel free to reach out.
   
   [![Steam akkiirah](https://img.shields.io/badge/Steam-akkiirah-informational?style=flat&logo=Steam&logoColor=%23b4befe&color=%23b4befe&link=https://steamcommunity.com/id/akkiirah)](https://steamcommunity.com/id/akkiirah)
   [![Discord akkiirah](https://img.shields.io/badge/Discord-akkiirah-informational?style=flat&logo=Discord&logoColor=%23b4befe&color=%23b4befe&link=https://discord.com/)](https://discord.com/)
