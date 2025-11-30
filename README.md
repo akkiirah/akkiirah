@@ -6,11 +6,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/codeberg.svg" width="240" alt="Codeberg Logo"/><br><br>
   <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rena-cube.gif" width="42px" align="absmiddle" /> 
-<strong>My active projects have moved to <a href="https://codeberg.org/akkiirah">Codeberg</a>.</strong> 
+<strong>My active projects have moved to <a href="https://code.dstwre.sh/">My own Forgejo Instance</a>.</strong> 
 <img src="https://github.com/akkiirah/akkiirah/blob/main/assets/rena-cube.gif" width="42px" align="absmiddle" /><br><br>
-  GitHub remains here as an archive, and I still use it occasionally when contributing to other projects.<br><br>
-  I moved to a platform that respects user agency, puts the community first, and avoids feeding corporate data pipelines or proprietary AI systems.<br><br>
-  <em>I build things because I care, not because they sell.</em>
+  GitHub remains here as an archive<br><br>
 </p>
